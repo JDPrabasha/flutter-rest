@@ -1,4 +1,4 @@
-# horus_mobile
+# Flutter Rest
 
 A new Flutter project.
 
